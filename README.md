@@ -5,8 +5,11 @@ Welcome to my GitHub profile, where I showcase my skills, projects, and what I'm
 ## 🔭 About Me
 
 •	🖥️ Interested in software development, web development, and algorithms.
+
 •	🌱 Currently learning advanced concepts in Computer Science.
+
 •	🤖 Passionate about problem-solving and coding.
+
 •	🖥️ Machine Learning Experience.
 
 ## ⚡ Skills
@@ -19,9 +22,16 @@ Welcome to my GitHub profile, where I showcase my skills, projects, and what I'm
 
 ## 🌟 Projects
 
-1.Bank Management System: o Engineered a full-stack banking web app using Django, supporting account creation, user authentication, and fictitious money transfers. o Integrated Django ORM for seamless CRUD operations and implemented SQLite for efficient database management. o Designed and optimized a responsive UI using HTML5, CSS3, and JavaScript, enhancing user experience.
+1.Bank Management System: 
 
-2.Fraud News Prediction through Machine Learning: o Developed and fine-tuned a logistic regression model for fake news detection, achieving 98% accuracy. o Enhanced data quality by 38% through missing value handling and categorical variable encoding, ensuring data integrity. o Conducted experiments with classification and regression algorithms, optimizing model selection for prediction tasks
+   o Engineered a full-stack banking web app using Django, supporting account creation, user authentication, and fictitious money transfers.
+   o Integrated Django ORM for seamless CRUD operations and implemented SQLite for efficient database management.
+   o Designed and optimized a responsive UI using HTML5, CSS3, and JavaScript, enhancing user experience.
+
+2.Fraud News Prediction through Machine Learning:
+   o Developed and fine-tuned a logistic regression model for fake news detection, achieving 98% accuracy.
+   o Enhanced data quality by 38% through missing value handling and categorical variable encoding, ensuring data integrity.
+   o Conducted experiments with classification and regression algorithms, optimizing model selection for prediction tasks
 
 ## 📫 How to reach me
 
