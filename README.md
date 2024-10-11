@@ -23,14 +23,17 @@ Welcome to my GitHub profile, where I showcase my skills, projects, and what I'm
 ## 🌟 Projects
 
 1.Bank Management System: 
-
    o Engineered a full-stack banking web app using Django, supporting account creation, user authentication, and fictitious money transfers.
+   
    o Integrated Django ORM for seamless CRUD operations and implemented SQLite for efficient database management.
+   
    o Designed and optimized a responsive UI using HTML5, CSS3, and JavaScript, enhancing user experience.
 
 2.Fraud News Prediction through Machine Learning:
    o Developed and fine-tuned a logistic regression model for fake news detection, achieving 98% accuracy.
+   
    o Enhanced data quality by 38% through missing value handling and categorical variable encoding, ensuring data integrity.
+   
    o Conducted experiments with classification and regression algorithms, optimizing model selection for prediction tasks
 
 ## 📫 How to reach me
@@ -41,4 +44,6 @@ Welcome to my GitHub profile, where I showcase my skills, projects, and what I'm
 
 •	Twitter: https://github.com/Lokesh007
 
- Thanks visiting my profile! 😊 I'm always open to collaborating on exciting projects and learning new things.
+
+### Thanks visiting my profile! 😊 
+#### I'm always open to collaborating on exciting projects and learning new things.
