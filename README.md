@@ -15,9 +15,13 @@ Welcome to my GitHub profile, where I showcase my skills, projects, and what I'm
 ## ⚡ Skills
 
 •	Programming Languages: Python, C, R, Java, JavaScript
+
 •	Web Development: HTML, CSS, JavaScript, React, Node.js
+
 •	Databases: MySQL, MongoDB
+
 •	Version Control: Git & GitHub
+
 •	Other Technologies: Machine Learning, Docker, APIs, Git, REST
 
 ## 🌟 Projects
