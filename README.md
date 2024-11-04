@@ -26,9 +26,9 @@ Welcome to my GitHub profile, where I showcase my skills, projects, and what I'm
 
 ## 🌟 Projects
 
-### 1.Bank Management System: 
+### 1.BCity-Based Real-Time Weather Information System: 
 
-   o The City-Based Real-Time Weather Information System provides instant access to weather data for cities worldwide using the OpenWeatherMap API.
+   o The Project provides instant access to weather data for cities worldwide using the OpenWeatherMap API.
    
    o Integrated Django ORM for seamless CRUD operations and implemented SQLite for efficient database management.
    
