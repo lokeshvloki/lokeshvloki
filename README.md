@@ -46,7 +46,7 @@ Welcome to my GitHub profile, where I showcase my skills, projects, and what I'm
 
 •	Gmail: lokeshv2403@gmail.com
 
-•	LinkedIn: (https://www.linkedin.com/in/lokesh-v )
+•	LinkedIn: (https://www.linkedin.com/in/lokesh-v-13873a284)
 
 •	Twitter: https://github.com/Lokesh007
 
