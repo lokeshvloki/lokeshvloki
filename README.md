@@ -26,7 +26,7 @@ Welcome to my GitHub profile, where I showcase my skills, projects, and what I'm
 
 ## 🌟 Projects
 
-### 1.BCity-Based Real-Time Weather Information System: 
+### 1. City-Based Real-Time Weather Information System: 
 
    o The Project provides instant access to weather data for cities worldwide using the OpenWeatherMap API.
    
@@ -34,7 +34,7 @@ Welcome to my GitHub profile, where I showcase my skills, projects, and what I'm
    
    o Users can search for cities and view key weather metrics, including temperature, humidity, and wind speed, in real time.
 
-### 2.Fraud News Prediction through Machine Learning:
+### 2. Fraud News Prediction through Machine Learning:
 
    o Developed and fine-tuned a logistic regression model for fake news detection, achieving 98% accuracy.
    
