@@ -28,11 +28,11 @@ Welcome to my GitHub profile, where I showcase my skills, projects, and what I'm
 
 ### 1.Bank Management System: 
 
-   o Engineered a full-stack banking web app using Django, supporting account creation, user authentication, and fictitious money transfers.
+   o The City-Based Real-Time Weather Information System provides instant access to weather data for cities worldwide using the OpenWeatherMap API.
    
    o Integrated Django ORM for seamless CRUD operations and implemented SQLite for efficient database management.
    
-   o Designed and optimized a responsive UI using HTML5, CSS3, and JavaScript, enhancing user experience.
+   o Users can search for cities and view key weather metrics, including temperature, humidity, and wind speed, in real time.
 
 ### 2.Fraud News Prediction through Machine Learning:
 
