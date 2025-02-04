@@ -17,6 +17,8 @@ In my free time, I love travelling ✈️, reading books 📚
 
 ---
 
+<h4 align="center">Ctrl ∙ Alt ∙ Del</h4>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Neeexxxx" alt="Profile View Counter" />
   <a href="https://github.com/Neeexxxx">
