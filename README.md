@@ -1,4 +1,6 @@
-<h4 align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"></h4>
+<h3 align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"></h3>
+
+---
 
 
 <h1 align="center">👋 Lokesh V</h1>
@@ -11,7 +13,7 @@ Welcome to my GitHub profile! 🚀 I'm a dedicated Bachelor of Computer Applicat
 
 📌 Stay tuned for exciting projects, collaborations, and tech insights!
 
-In My free time, I love travelling ✈️, reading books 📚.
+In my free time, I love travelling ✈️, reading books 📚.
 
 ---
 
