@@ -26,6 +26,15 @@ In my free time, I love travelling ✈️, reading books 📚
   </a>
 </p>
 
+
+## <p align="center">Languages</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,mysql,machine learning" alt="Languages" />
+  </a>
+</p>
+
 ---
 
 ## 🔭 About Me
