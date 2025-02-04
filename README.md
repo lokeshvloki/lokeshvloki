@@ -13,7 +13,16 @@ Welcome to my GitHub profile! 🚀 I'm a dedicated Bachelor of Computer Applicat
 
 📌 Stay tuned for exciting projects, collaborations, and tech insights!
 
-In my free time, I love travelling ✈️, reading books 📚.
+In my free time, I love travelling ✈️, reading books 📚
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Neeexxxx" alt="Profile View Counter" />
+  <a href="https://github.com/Neeexxxx">
+    <img src="https://img.shields.io/github/followers/Neeexxxx?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+</p>
 
 ---
 
