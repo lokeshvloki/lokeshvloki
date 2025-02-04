@@ -63,14 +63,14 @@ In my free time, I love travelling ✈️, reading books 📚
 
 ---
 
-## 📫 How to reach me
+## <p align="center">🤝🏻 &nbsp;Connect with Me</p>
 
-•	Gmail: lokeshv2403@gmail.com
-
-•	LinkedIn: (https://www.linkedin.com/in/lokesh-v-13873a284)
-
-•	Twitter: https://github.com/Lokesh007
-
+<p align="center">
+  <a href="inkedin.com/in/lokesh-v-13873a284/">
+    <img src="https://img.shields.io/badge/-Priyanshu%20Prajapati-0077B5?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lokeshv2403@gmail.com">
+</p>
 ---
 
 ### Thanks visiting my profile! 😊 
