@@ -63,18 +63,6 @@ In my free time, I love travelling ✈️, reading books 📚
 
 ---
 
-## <p align="center">🤝🏻 &nbsp;Connect with Me</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanshhuu/">
-  </a>
-  <a href="mailto:lokeshv2403@gmail.com">
-
-  </a>
-
-</p>
-
----
 
 ### Thanks visiting my profile! 😊 
 #### I'm always open to collaborating on exciting projects and learning new things.
