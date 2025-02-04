@@ -66,11 +66,14 @@ In my free time, I love travelling ✈️, reading books 📚
 ## <p align="center">🤝🏻 &nbsp;Connect with Me</p>
 
 <p align="center">
-  <a href="inkedin.com/in/lokesh-v-13873a284/">
-    <img src="https://img.shields.io/badge/-Priyanshu%20Prajapati-0077B5?style=flat&logo=Linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/priyanshhuu/">
   </a>
   <a href="mailto:lokeshv2403@gmail.com">
+
+  </a>
+
 </p>
+
 ---
 
 ### Thanks visiting my profile! 😊 
