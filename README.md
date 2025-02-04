@@ -65,4 +65,11 @@ In my free time, I love travelling ✈️, reading books 📚
 
 
 ### Thanks visiting my profile! 😊 
+
+
 #### I'm always open to collaborating on exciting projects and learning new things.
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
