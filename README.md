@@ -19,12 +19,12 @@ In my free time, I love travelling ✈️, reading books 📚
 
 <h4 align="center">Ctrl ∙ Alt ∙ Del</h4>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lokeshvloki" alt="Profile View Counter" />
   <a href="https://github.com/Neeexxxx">
     <img src="https://img.shields.io/github/followers/lokeshvloki?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-</p>
+</p> -->
 
 
 ## <p align="center">Tech-Stack</p>
