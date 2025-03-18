@@ -77,7 +77,7 @@ In my free time, I love travelling ✈️, reading books 📚
   <a href="mailto:lokeshv2403@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:40px;"></a>
   
-  <a href="https://leetcode.com/u/Tanisha_Mehta/" target="_blank">
+  <a href="https://lokeshvloki.github.io/Portfolio//" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" style="height:40px;">
 
 </p>
