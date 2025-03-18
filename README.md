@@ -65,6 +65,24 @@ In my free time, I love travelling ✈️, reading books 📚
 
 ---
 
+# Connect With me
+
+## Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tanisha-mehta-a0a89a256/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:40px;"></a>
+  
+  <a href="https://github.com/TanishaMehta17" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height:40px;"></a>
+  
+  <a href="mailto:tanishamehta1709@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:40px;"></a>
+  
+  <a href="https://leetcode.com/u/Tanisha_Mehta/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="height:40px;"></a>
+</p>
+
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://linkedin.com/in/lokesh-v-13873a284) 
