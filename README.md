@@ -65,8 +65,6 @@ In my free time, I love travelling ✈️, reading books 📚
 
 ---
 
-# Connect With me
-
 ## Connect with Me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <p align="left">
@@ -83,12 +81,6 @@ In my free time, I love travelling ✈️, reading books 📚
     <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" style="height:40px;">
 
 </p>
-
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://linkedin.com/in/lokesh-v-13873a284) 
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:lokeshv2403@gmail.com) 
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://x.com/me_lokesh07)
 
 ---
 
