@@ -63,6 +63,37 @@ In my free time, I love travelling ✈️, reading books 📚
 
 ---
 
+<!-- 🌐 CONNECT WITH ME -->
+<h2 align="center">✨ Let's Connect — Socials & Portfolio ✨</h2>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/lokesh-v-13873a284" target="_blank" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>&nbsp;&nbsp;
+
+  <!-- Gmail -->
+  <a href="mailto:lokeshv2403@gmail.com" title="Send me an Email">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>&nbsp;&nbsp;
+
+  <!-- Topmate -->
+  <a href="https://topmate.io/lokiicoded" target="_blank" title="Book a 1:1 with me on Topmate">
+    <img src="https://img.shields.io/badge/-Topmate-1DA1F2?style=for-the-badge&logo=meetup&logoColor=white" alt="Topmate Badge" />
+  </a>
+</p>
+
+<br>
+
+<!-- Portfolio Button -->
+<p align="center">
+  <a href="https://lokeshvloki.github.io/Portfolio/" target="_blank" title="Check out my Portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-7B68EE?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
+
+
+
 ## <p align="center"> In the Loop of Logic – Let’s Talk</p>
 <!-- Social Icons Section -->
 <p align="center">
