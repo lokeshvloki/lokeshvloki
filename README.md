@@ -1,15 +1,11 @@
-![logo](https://github.com/lokeshvloki/lokeshvloki/blob/main/209520546-e43e8fc9-bcf0-4a10-8ecc-71de8b1be9d9.gif)
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h3>
-
----
-
 <!-- Typing SVG Header -->
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=700&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Hello+World,+I'm+Lokesh+V!;Crafting+AI-powered+solutions.;Building+full-stack+applications.;Tech+Enthusiast.;+Designing+Flexible+systems.;Optimizing+software+with+algorithms.;Translating+data+into+impact+through+ML+and+analytics.)
 
 </div>
+
+![logo](https://github.com/lokeshvloki/lokeshvloki/blob/main/209520546-e43e8fc9-bcf0-4a10-8ecc-71de8b1be9d9.gif)
 
 Welcome to my GitHub profile! 🚀 I'm a dedicated Bachelor of Computer Applications (BCA) student, consistently excelling in academics as the topper of my program. Here, I showcase my skills, projects, and continuous learning in the ever-evolving world of technology, software development, and innovation.
 
@@ -67,8 +63,23 @@ In my free time, I love travelling ✈️, reading books 📚
 
 ---
 
-## Connect with Me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+## In the Loop of Logic – Let’s Talk
+<p align="center">
+  <a href="https://linkedin.com/in/lokesh-v-13873a284" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:lokeshv2403@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://lokeshvloki.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+-----
 <p align="left">
   <a href="https://linkedin.com/in/lokesh-v-13873a284" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:40px;"></a>
