@@ -4,17 +4,12 @@
 
 ---
 
-
-<h1 align="center">I'm Lokesh V</h1>
-
 <!-- Typing SVG Header -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=700&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Hello+World,+I'm+Lokesh+V!;Crafting+AI-powered+solutions.;Building+full-stack+applications.;Designing+Computer-Vision+systems.;Optimizing+software+with+algorithms.;Creating+UI%2FUX-focused+experiences.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=700&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Hello+World,+I'm+Lokesh+V!;Crafting+AI-powered+solutions.;Building+full-stack+applications.;Tech+Enthusiast.;+Designing+Flexible+Optimized+systems.;Optimizing+software+with+algorithms.;Creating+UI%2FUX-focused+experiences.)
 
 </div>
-
-🎓 Passionate BCA Student | Tech Enthusiast
 
 Welcome to my GitHub profile! 🚀 I'm a dedicated Bachelor of Computer Applications (BCA) student, consistently excelling in academics as the topper of my program. Here, I showcase my skills, projects, and continuous learning in the ever-evolving world of technology, software development, and innovation.
 
