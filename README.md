@@ -9,14 +9,6 @@
 
 ![logo](https://github.com/lokeshvloki/lokeshvloki/blob/main/209520546-e43e8fc9-bcf0-4a10-8ecc-71de8b1be9d9.gif)
 
-Welcome to my GitHub profile! 🚀 I'm a dedicated Bachelor of Computer Applications (BCA) student, consistently excelling in academics as the topper of my program. Here, I showcase my skills, projects, and continuous learning in the ever-evolving world of technology, software development, and innovation.
-
-💡 Key Interests: Full-Stack Development | Machine Learning | DevOps | Agile Methodologies
-
-📌 Stay tuned for exciting projects, collaborations, and tech insights!
-
-In my free time, I love travelling ✈️, reading books 📚
-
 ---
 
 ## <p align="center">Tech-Stack</p>
@@ -52,7 +44,6 @@ In my free time, I love travelling ✈️, reading books 📚
 
 <br>
 
----
 
 <!-- Portfolio Button -->
 <p align="center">
