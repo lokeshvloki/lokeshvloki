@@ -63,7 +63,30 @@ In my free time, I love travelling ✈️, reading books 📚
 
 ---
 
-## In the Loop of Logic – Let’s Talk
+## <p align="center"> In the Loop of Logic – Let’s Talk</p>
+<!-- Social Icons Section -->
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/lokesh-v-13873a284" target="_blank" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>&nbsp;&nbsp;
+
+  <!-- Gmail -->
+  <a href="mailto:lokeshv2403@gmail.com" title="Send me an Email">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+</p>
+
+<br>
+
+<!-- Portfolio Section -->
+<p align="center">
+  <a href="https://lokeshvloki.github.io/Portfolio/" target="_blank" title="Check out my Portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-0078D4?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
+
+
 <p align="center">
   <a href="https://linkedin.com/in/lokesh-v-13873a284" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
