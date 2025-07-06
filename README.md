@@ -5,6 +5,8 @@
 
 </div>
 
+<h4 align="center">Ctrl ∙ Alt ∙ Del</h4>
+
 ![logo](https://github.com/lokeshvloki/lokeshvloki/blob/main/209520546-e43e8fc9-bcf0-4a10-8ecc-71de8b1be9d9.gif)
 
 Welcome to my GitHub profile! 🚀 I'm a dedicated Bachelor of Computer Applications (BCA) student, consistently excelling in academics as the topper of my program. Here, I showcase my skills, projects, and continuous learning in the ever-evolving world of technology, software development, and innovation.
@@ -17,16 +19,6 @@ In my free time, I love travelling ✈️, reading books 📚
 
 ---
 
-<h4 align="center">Ctrl ∙ Alt ∙ Del</h4>
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lokeshvloki" alt="Profile View Counter" />
-  <a href="https://github.com/Neeexxxx">
-    <img src="https://img.shields.io/github/followers/lokeshvloki?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-</p> -->
-
-
 ## <p align="center">Tech-Stack</p>
 
 <p align="center">
@@ -34,6 +26,8 @@ In my free time, I love travelling ✈️, reading books 📚
     <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,mysql,react,nodejs,express,git,github,vscode" alt="Languages" />
   </a>
 </p>
+
+---
 
 
 <!-- 🌐 CONNECT WITH ME -->
@@ -58,6 +52,8 @@ In my free time, I love travelling ✈️, reading books 📚
 
 <br>
 
+---
+
 <!-- Portfolio Button -->
 <p align="center">
   <a href="https://lokeshvloki.github.io/Portfolio/" target="_blank" title="Check out my Portfolio">
@@ -65,11 +61,13 @@ In my free time, I love travelling ✈️, reading books 📚
   </a>
 </p>
 
-###  <p align="center">RANDOM DEV QUOTE</p>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
+<h3 align="center">RANDOM DEV QUOTE</h3>
 
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
