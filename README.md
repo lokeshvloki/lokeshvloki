@@ -23,7 +23,7 @@
 
 
 <!-- 🌐 CONNECT WITH ME -->
-<h3 align="center">IN THE LOOP OF LOGIC – LET'S TALK</h3>
+<h3 align="center">In the Loop of Logic – Let's Talk</h3>
 
 <p align="center">
   <!-- LinkedIn -->
@@ -54,7 +54,7 @@
 
 ---
 
-<h3 align="center">RANDOM DEV QUOTE</h3>
+<h3 align="center">Random Dev Quote</h3>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
