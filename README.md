@@ -92,16 +92,10 @@ In my free time, I love travelling ✈️, reading books 📚
   </a>
 </p>
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
+###  <p>RANDOM DEV QUOTE</p>
+<P>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</P>
 
 
-### Thanks visiting my profile! 😊 
-
-
-#### I'm always open to collaborating on exciting projects and learning new things.
 
 
 <p align="center">
