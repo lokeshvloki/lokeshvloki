@@ -35,33 +35,6 @@ In my free time, I love travelling ✈️, reading books 📚
   </a>
 </p>
 
----
-
-## 🔭 About Me
-
-•	🖥️ Interested in software development, web development, and algorithms.
-
-•	🌱 Currently learning advanced concepts in Computer Science.
-
-•	🤖 Passionate about problem-solving and coding.
-
-•	🖥️ Machine Learning Experience.
-
----
-
-## ⚡ Skills
-
-•	Programming Languages: Python, C, R, Java, JavaScript
-
-•	Web Development: HTML, CSS, JavaScript, React, Node.js
-
-•	Databases: MySQL, MongoDB
-
-•	Version Control: Git & GitHub
-
-•	Other Technologies: Machine Learning, Docker, APIs, Git, REST
-
----
 
 <!-- 🌐 CONNECT WITH ME -->
 ## <p align="center">IN THE LOOP OF LOGIC – LET'S TALK</p>
@@ -92,8 +65,8 @@ In my free time, I love travelling ✈️, reading books 📚
   </a>
 </p>
 
-###  <p>RANDOM DEV QUOTE</p>
-<P>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</P>
+###  <p align="center">RANDOM DEV QUOTE</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
