@@ -1,13 +1,13 @@
 ![logo](https://github.com/lokeshvloki/lokeshvloki/blob/main/209520546-e43e8fc9-bcf0-4a10-8ecc-71de8b1be9d9.gif)
 
-### <h3 align = "center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h3>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h3>
 
 ---
 
 <!-- Typing SVG Header -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=700&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Hello+World,+I'm+Lokesh+V!;Crafting+AI-powered+solutions.;Building+full-stack+applications.;Tech+Enthusiast.;+Designing+Flexible+Optimized+systems.;Optimizing+software+with+algorithms.;Creating+UI%2FUX-focused+experiences.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=700&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Hello+World,+I'm+Lokesh+V!;Crafting+AI-powered+solutions.;Building+full-stack+applications.;Tech+Enthusiast.;+Designing+Flexible+systems.;Optimizing+software+with+algorithms.;Translating+data+into+impact+through+ML+and+analytics.)
 
 </div>
 
