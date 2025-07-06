@@ -5,13 +5,13 @@
 
 </div>
 
-<h4 align="center">Ctrl ∙ Alt ∙ Del</h4>
+<h3 align="center">Ctrl ∙ Alt ∙ Del</h3>
 
 ![logo](https://github.com/lokeshvloki/lokeshvloki/blob/main/209520546-e43e8fc9-bcf0-4a10-8ecc-71de8b1be9d9.gif)
 
 ---
 
-## <p align="center">Tech-Stack</p>
+<h3 align="center">Tech-Stack</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,7 +23,7 @@
 
 
 <!-- 🌐 CONNECT WITH ME -->
-## <p align="center">IN THE LOOP OF LOGIC – LET'S TALK</p>
+<h3 align="center">IN THE LOOP OF LOGIC – LET'S TALK</h3>
 
 <p align="center">
   <!-- LinkedIn -->
